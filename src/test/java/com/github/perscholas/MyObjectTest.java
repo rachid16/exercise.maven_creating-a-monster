@@ -7,7 +7,7 @@ public class MyObjectTest {
     @Test
     public void testRun() { // TODO
         // Given
-        MyObject myObject = new MyObject();
+        ApplicationRunner myObject = new ApplicationRunner();
 
         // when
         myObject.run();
