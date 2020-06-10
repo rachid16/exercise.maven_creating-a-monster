@@ -1,4 +1,4 @@
-# Project Title
+# Creating a Monster
 
 * **Objective** - To define several subclasses of a `Monster`.
 * **Purpose** - To gain familiarity with inheritance and polymorphism
