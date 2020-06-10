@@ -8,6 +8,7 @@
     * The subclasses shall then provides their actual implementation.
     * Ensure that all test cases in `src.test.com.github.perscholas` pass with 100% success rate.
 
+<img src="./creating-a-monster.png">
 
 
 ## How to Download
